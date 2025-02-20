@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id="Bz4i5:RX(5/a@={YKi`r" x="0" y="0"><statement name="HANDLER"><block type="music_playable_play" id="X?75^q2GLOeYuAHv@XLh"><field name="playbackMode">music.PlaybackMode.UntilDone</field><value name="toPlay"><shadow type="music_string_playable" id="@Yynu^0bga{#g#=CG]t/"><value name="melody"><shadow type="melody_editor" id="/LFJpij$E37KTkhEhg-)"><field name="melody">"C5 B A G F E D C "</field></shadow></value><value name="bpm"><shadow type="math_number_minmax" id="~aet*FPBCRs8YOH7v[(k"><mutation min="40" max="500" label="Bpm" precision="0"></mutation><field name="SLIDER">500</field></shadow></value></shadow></value><next><block type="device_show_leds" id="KShJHac^L%Y;a)5m-sa8"><field name="LEDS">`
+        . # . # . 
+        # # # # # 
+        # # # # # 
+        . # # # . 
+        . . # . .
+        `</field><next><block type="device_print_message" id="W]z5X.A.Zy,%a]d._^^T"><value name="text"><shadow type="text" id="V|Vwg$pOYfl~.{6}]f^T"><field name="TEXT">KAYLA</field></shadow></value></block></next></block></next></block></statement></block></xml>
